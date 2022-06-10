@@ -64,8 +64,8 @@
 ![imagen 15](imagenes/15.png)
 
 **16.-En la pestaña de resource health vemos el recurso**
-![imagen 16](imagenes/16.png)
+![imagen 16](imagenes/17.png)
 
 **17.- Y por ultimo en alerts vemos nuestras alertas creadas**
-![imagen 17](imagenes/17.png)
+![imagen 17](imagenes/18.png)
 
